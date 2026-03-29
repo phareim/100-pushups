@@ -18,8 +18,6 @@
     <div v-else>
       <p>Loading authentication state...</p>
     </div>
-
-    <NuxtWelcome />
   </div>
 </template>
 
